@@ -1,8 +1,8 @@
 # Kovalchuk Alexandr
 ## Contacts
-### Mail: Unkind.sft@tut.by
-### Phone: +375 44 5777488
-### Linkedin: 
+### *Mail: Unkind.sft@tut.by*
+### *Phone: +375 44 5777488*
+### *Linkedin:* 
 [Linkedin](https://www.linkedin.com/in/kovalchukam)
 ## About me
 A well-organized and purposeful person with good communication and analytical skills. Area of my competension is power supply, electrical lighting, service of industrial facilities. I have strong knowledge of special documents of electricity, and middle English.
