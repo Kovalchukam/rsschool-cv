@@ -12,8 +12,9 @@ I like to do heavy engineering tasks. I get pleasure when I can solve them. My i
 * English A1+
 * Group management experience
 * Time management
-## Сode examples
+## Сode examples 
 ```
+
  <body>
     <h1> Hello world </h1>
     <h5>Earth is central of the world</h5>
