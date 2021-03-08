@@ -34,6 +34,6 @@ Specialty- Electric Power Supply
 1.	2020-2021 learning English with tutor
 
 ## English level
-I have an A2+ middle English, I have completed a A1 course in streamline language 
-School, and now I am currently tutoring
+I have an A2+ middle English, I have completed  A2 course in streamline language 
+school, and now I am currently tutoring
 
