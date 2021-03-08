@@ -2,7 +2,7 @@
 ## Contacts
 ### Mail: Unkind.sft@tut.by
 ### Phone: +375 44 5777488
-### Linkedin: www.linkedin.com/in/kovalchukam
+### Linkedin: [Linkedin](https://www.linkedin.com/in/kovalchukam)
 ## About me
 A well-organized and purposeful person with good communication and analytical skills. Area of my competension is power supply, electrical lighting, service of industrial facilities. I have strong knowledge of special documents of electricity, and middle English.
 I like to do heavy engineering tasks. I get pleasure when I can solve them. My interests are not limited to energy. I like mechanics, electronics and programming. I want to find a new field of application like computer science.
@@ -13,8 +13,8 @@ I like to do heavy engineering tasks. I get pleasure when I can solve them. My i
 * Group management experience
 * Time management
 ## Сode examples 
-```
 
+```
  <body>
     <h1> Hello world </h1>
     <h5>Earth is central of the world</h5>
