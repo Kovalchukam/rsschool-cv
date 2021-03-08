@@ -23,16 +23,16 @@ I like to do heavy engineering tasks. I get pleasure when I can solve them. My i
  </body>
 ```
 ## Work
-*	Industrial electrician 2011-2013
-*	Industrial electrician managing engineer 2013-2021
+1.	Industrial electrician 2011-2013
+1.	Industrial electrician managing engineer 2013-2021
 Education
-*	2006-2011 Belarusian National Technical University 
+1.	2006-2011 Belarusian National Technical University 
 POWER ENGINEERING FACULTY
 Specialty- Electric Power Supply
-*	2018 streamline English course pre intermediate level 
-*	2020-2021 learning English with tutor
+1.	2018 streamline English course pre intermediate level 
+1.	2020-2021 learning English with tutor
 
 ## English level
-	I have an A1+ middle English, I have completed a A1 course in streamline language 
+I have an A1+ middle English, I have completed a A1 course in streamline language 
 School, and now I am currently tutoring
 
