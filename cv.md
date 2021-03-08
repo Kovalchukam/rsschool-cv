@@ -25,6 +25,7 @@ I like to do heavy engineering tasks. I get pleasure when I can solve them. My i
 ## Work
 1.	Industrial electrician 2011-2013
 1.	Industrial electrician managing engineer 2013-2021
+
 ## Education
 1.	2006-2011 Belarusian National Technical University 
 POWER ENGINEERING FACULTY
