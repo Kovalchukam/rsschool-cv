@@ -10,7 +10,7 @@ I like to do heavy engineering tasks. I get pleasure when I can solve them. My i
 ## Skills
 * Strong knowledge of electricity 
 * Extensive experience in maintenance and installation of industrial equipment
-* English A1+
+* English A2+
 * Group management experience
 * Time management
 ## Сode examples 
@@ -33,6 +33,6 @@ Specialty- Electric Power Supply
 1.	2020-2021 learning English with tutor
 
 ## English level
-I have an A1+ middle English, I have completed a A1 course in streamline language 
+I have an A2+ middle English, I have completed a A1 course in streamline language 
 School, and now I am currently tutoring
 
